@@ -11,7 +11,7 @@
     * Ultrasonic 
     * LDR
 
-3) [Communication Protocols](#COMMUNICATION PROTOCOLS)
+3) [Communication Protocols](#COMMUNICATION-PROTOCOLS)
     * SPI
     * I2C
     * UART
