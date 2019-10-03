@@ -17,7 +17,7 @@
     * UART
 ***    
 ### BASICS
-Nature Image: ![Alt](https://www.carwale.com/hyundai-cars/venue/images/hyundai-venue-exterior-154436/)
+Nature Image: ![Alt](https://www.carwale.com/hyundai-cars/venue/images/hyundai-venue-exterior-154436/.png)
 ***
 ### SENSORS
 ***
