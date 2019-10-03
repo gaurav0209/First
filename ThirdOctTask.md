@@ -17,7 +17,7 @@
     * UART
 ***    
 ### BASICS
-Nature Image: ![Alt](https://cdn.pixabay.com/photo/2018/05/28/22/11/message-in-a-bottle-3437294__340.jpg)
+Nature Image: ![Alt](https://www.carwale.com/hyundai-cars/venue/images/hyundai-venue-exterior-154436/)
 ***
 ### SENSORS
 ***
